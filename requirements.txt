@@ -1,0 +1,17 @@
+tqdm
+sklearn
+tensorboard
+pipwin
+pandas
+numpy
+matplotlib
+scipy
+requests
+seaborn
+jupyterlab
+statsmodels
+visdom
+opencv-python
+seaborn
+ipywidgets
+sklearn-genetic-opt
